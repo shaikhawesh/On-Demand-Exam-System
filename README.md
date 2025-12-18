@@ -22,6 +22,6 @@ then copy the localhost url and go to browser
 
 Note---
 You can make new users and faculty also but you cannot make new admin
-so, here is the pasword of admin login:
+so, here is the pasword of admin login-
 username:- admin
 password:- 123
